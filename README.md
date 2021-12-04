@@ -3,6 +3,7 @@
 ## 科研相关
 ### LaTex
 - [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) : 《简单粗暴 LaTeX》出版图书开源仓库 
+- [Latex菜鸟快速入门教程](https://blog.csdn.net/EchoooZhang/article/details/108235233?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.essearch_pc_relevant&spm=1001.2101.3001.4242.1) : 
 
 ## 参考项目
 - [Smart_container](https://github.com/thomas-yanxin/Smart_container) : 袋鼯麻麻——智能购物平台
