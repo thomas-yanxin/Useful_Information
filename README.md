@@ -64,6 +64,7 @@
 ## 可视化
 - [plotly](https://github.com/datawhalechina/wow-plotly) ： 高级可视化神器plotly的学习
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) ： VisualDL是飞桨可视化分析工具，以丰富的图表呈现训练参数变化趋势、模型结构、数据样本、高维数据分布等。可帮助用户更清晰直观地理解深度学习模型训练过程及模型结构，进而实现高效的模型优化。
+- [pyecharts-gallery](https://gallery.pyecharts.org/#/README) : 图表可视化
 
 
 ## 部署
