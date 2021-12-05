@@ -3,7 +3,16 @@
 ## 科研相关
 ### LaTex
 - [Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX) : 《简单粗暴 LaTeX》出版图书开源仓库 
-- [Latex菜鸟快速入门教程](https://blog.csdn.net/EchoooZhang/article/details/108235233?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.essearch_pc_relevant&spm=1001.2101.3001.4242.1) : 
+- [LaTex菜鸟快速入门教程](https://blog.csdn.net/EchoooZhang/article/details/108235233?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.essearch_pc_relevant&spm=1001.2101.3001.4242.1) : 
+- [LaTex模板](https://www.overleaf.com/latex/templates)
+- [LaTeX Templates](http://www.latextemplates.com/)
+- [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html) : 忘记某些字符用 LaTeX 怎么表示时，可以在这个网站上通过手写来查询。
+
+### 语言表达
+- [linggle](https://linggle.com/) : 搜索最常出现的英文词语搭配。不确定自己的表达方式是否正确时使用。
+- [易搜搭ESODA](http://www.esoda.org/) : 清华HCI Lab工作室出品的一款适合国人英语写作的词组搭配查询工具。可切换具体研究方向的论文语料库，展示相关的可替换用法，支持中英混搜。
+- [Thesaurus](https://www.thesaurus.com/) : 将低端词汇转换为同义的高端词汇。 
+- [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) : 学术用语库，告诉你各个章节适合用哪些句式搭配。
 
 ## 参考项目
 - [Smart_container](https://github.com/thomas-yanxin/Smart_container) : 袋鼯麻麻——智能购物平台
@@ -43,6 +52,16 @@
 - [PaddleRec](https://github.com/PaddlePaddle/PaddleRec)
 
 ## 数据处理
+
+### 数据集
+
+- [AIStudio](https://aistudio.baidu.com/aistudio/datasetoverview)
+- [阿里云·天池](https://tianchi.aliyun.com/dataset?spm=5176.12281949.J_3941670930.21.493e24480fhNNa)
+- [和鲸](https://www.heywhale.com/home/dataset)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [格物钛](https://gas.graviti.cn/open-datasets)
+- [Data Search | Bifrost](https://datasets.bifrost.ai/) : 视觉数据集
+- [Dr.Sure](https://github.com/wangqingbaidu/Dr.Sure) ： Dr.Sure数据集整理repo
 
 ### 数据标注
 - [whale-anno](https://github.com/datawhalechina/whale-anno) ： Datawhale自研数据标注工具。
