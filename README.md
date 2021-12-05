@@ -29,6 +29,8 @@
 - [key-book](https://datawhalechina.github.io/key-book/) : 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解
 - [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) ： 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库。
 - [PaddleBook](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html) ：飞桨深度学习入门教程
+- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) : 总共有6个文档，包括了监督学习、无监督学习、深度学习、机器学习技巧和秘诀、概率和统计、线性代数和微积分。
+- [统计学习方法（第二版）习题解答](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) : 在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 
 ### 计算机视觉
 - [PaddleDetection目标检测](https://github.com/PaddlePaddle/PaddleDetection) ： 为基于飞桨PaddlePaddle的端到端目标检测套件，提供多种主流目标检测、实例分割、跟踪、关键点检测算法，配置化的网络模块组件、数据增强策略、损失函数等，推出多种服务器端和移动端工业级SOTA模型，并集成了模型压缩和跨平台高性能部署能力,帮助开发者更快更好完成端到端全开发流程。
