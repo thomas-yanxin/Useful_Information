@@ -113,6 +113,7 @@
 - [Daily Interview](https://github.com/datawhalechina/daily-interview) ： Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等
 - [backend-interview](https://github.com/yongxinz/backend-interview) : 后端面试题汇总
 - [Leetcode题目热度](https://github.com/afatcoder/LeetcodeTop) : 汇总互联网公司技术岗考察Leetcode题目的热度
+- [cyc2018](https://github.com/CyC2018/CS-Notes) : 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## 杂论
 
