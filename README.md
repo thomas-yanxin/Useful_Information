@@ -53,6 +53,9 @@
 - [Fun-Rec](https://github.com/datawhalechina/fun-rec) :  本推荐算法教程主要是针对具有机器学习基础并想找推荐算法岗位的同学，教程由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。
 - [PaddleRec](https://github.com/PaddlePaddle/PaddleRec)
 
+### 知识图谱
+- [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) : 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
+
 ## 数据处理
 
 ### 数据集
