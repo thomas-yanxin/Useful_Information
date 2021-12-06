@@ -13,6 +13,7 @@
 - [易搜搭ESODA](http://www.esoda.org/) : 清华HCI Lab工作室出品的一款适合国人英语写作的词组搭配查询工具。可切换具体研究方向的论文语料库，展示相关的可替换用法，支持中英混搜。
 - [Thesaurus](https://www.thesaurus.com/) : 将低端词汇转换为同义的高端词汇。 
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) : 学术用语库，告诉你各个章节适合用哪些句式搭配。
+- [写作猫](https://xiezuocat.com/#/)
 
 ## 参考项目
 - [Smart_container](https://github.com/thomas-yanxin/Smart_container) : 袋鼯麻麻——智能购物平台
