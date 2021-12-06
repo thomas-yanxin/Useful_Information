@@ -115,4 +115,5 @@
 
 ## 杂论
 
+- [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei) : 收录了任正非讲话稿400余篇
 
