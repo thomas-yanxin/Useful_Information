@@ -85,6 +85,7 @@
 
 ### 知识图谱
 - [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) : 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
+- [cnSchema](https://github.com/cnschema/cnSchema) : 开放中文知识图谱的schema
 
 ## 数据处理
 
