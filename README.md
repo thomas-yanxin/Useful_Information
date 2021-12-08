@@ -61,6 +61,7 @@
 - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) : 总共有6个文档，包括了监督学习、无监督学习、深度学习、机器学习技巧和秘诀、概率和统计、线性代数和微积分。
 - [统计学习方法（第二版）习题解答](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) : 在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 - [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) : 超过 200 本经典的计算机书籍分享
+- [scikit-learn](https://scikit-learn.org/stable/) : scikit-learn官网
 
 ### 计算机视觉
 - [PaddleDetection目标检测](https://github.com/PaddlePaddle/PaddleDetection) ： 为基于飞桨PaddlePaddle的端到端目标检测套件，提供多种主流目标检测、实例分割、跟踪、关键点检测算法，配置化的网络模块组件、数据增强策略、损失函数等，推出多种服务器端和移动端工业级SOTA模型，并集成了模型压缩和跨平台高性能部署能力,帮助开发者更快更好完成端到端全开发流程。
