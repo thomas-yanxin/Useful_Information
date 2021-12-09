@@ -7,6 +7,7 @@
 - [科研相关](#科研相关)
   - [LaTex](#latex)
   - [语言表达](#语言表达)
+  - [画图](#画图)
 - [参考项目](#参考项目)
 - [机器学习](#机器学习)
   - [基础知识](#基础知识)
@@ -42,6 +43,12 @@
 - [Thesaurus](https://www.thesaurus.com/) : 将低端词汇转换为同义的高端词汇。 
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) : 学术用语库，告诉你各个章节适合用哪些句式搭配。
 - [写作猫](https://xiezuocat.com/#/)
+
+### 画图
+- [alexlenail.me](http://alexlenail.me/NN-SVG/) : 神经网络画图
+- [ml-visuals](https://github.com/dair-ai/ml-visuals) ： 机器学习画图模板
+
+
 
 ## 参考项目
 - [Smart_container](https://github.com/thomas-yanxin/Smart_container) : 袋鼯麻麻——智能购物平台
