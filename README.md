@@ -7,7 +7,9 @@
 - [科研相关](#科研相关)
   - [LaTex](#latex)
   - [语言表达](#语言表达)
+  - [文献翻译](#文献翻译)
   - [画图](#画图)
+  - [搜书](#搜书)
 - [参考项目](#参考项目)
 - [机器学习](#机器学习)
   - [基础知识](#基础知识)
@@ -44,10 +46,17 @@
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) : 学术用语库，告诉你各个章节适合用哪些句式搭配。
 - [写作猫](https://xiezuocat.com/#/)
 
+### 文献翻译
+- [知云文献翻译](https://www.zhiyunwenxian.cn/)
+- [DeepL翻译](https://www.deepl.com/translator)
+
 ### 画图
 - [alexlenail.me](http://alexlenail.me/NN-SVG/) : 神经网络画图
 - [ml-visuals](https://github.com/dair-ai/ml-visuals) ： 机器学习画图模板
 
+### 搜书
+- [鸠摩搜书](https://www.jiumodiary.com/) : 文档搜索引擎
+- [计算机免费书籍](https://www.jb51.net/books/)
 
 
 ## 参考项目
