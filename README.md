@@ -10,6 +10,7 @@
   - [文献翻译](#文献翻译)
   - [画图](#画图)
   - [搜书](#搜书)
+  - [英语学习](#英语学习)
 - [参考项目](#参考项目)
 - [机器学习](#机器学习)
   - [基础知识](#基础知识)
@@ -30,6 +31,10 @@
 - [竞赛](#竞赛)
 - [面经](#面经)
 - [杂乱](#杂论)
+- [实用软件工具](#实用软件工具)
+  - [浏览器插件](#浏览器插件)
+  - [实用软件](#实用软件)
+  - [实用工具](#实用工具)
 
 ## 科研相关
 ### LaTex
@@ -57,7 +62,13 @@
 ### 搜书
 - [鸠摩搜书](https://www.jiumodiary.com/) : 文档搜索引擎
 - [计算机免费书籍](https://www.jb51.net/books/)
+- [Library Genesis](http://www.libgen.is/) ：俄罗斯的网站，强大且简洁，无需登陆即可搜索、免费下载
 
+### 英语学习
+- [欧路词典](https://www.aliyundrive.com/s/3LFHdwbArF1) : 英语词典、pdf/epub/doc阅读(即点即译)、记忆法背单词等，支持导入第三方词典，如牛津、朗文、考研英语红宝书等。链接分享第三方词典若干，提取码q5v7。
+- [MagazineLib](https://magazinelib.com/) : 外刊下载网站MagazineLib
+- [FreePdfMagazine](https://www.freepdfmagazine.com/) : 外刊下载网站FreePdfMagazine
+- [Downmagaz](https://downmagaz.net/) : 外刊下载网站Downmagaz
 
 ## 参考项目
 - [Smart_container](https://github.com/thomas-yanxin/Smart_container) : 袋鼯麻麻——智能购物平台
@@ -152,6 +163,8 @@
 ### EXE打包
 - [QPT](https://github.com/QPT-Family/QPT) : 一款可以“模拟”开发环境的多功能封装工具，最短只需一行命令即可将普通的Python脚本打包成EXE可执行程序，并选择性添加CUDA和NoAVX的支持，尽可能兼容更多的用户环境。
 
+<!-- ## 树莓派 -->
+
 ## 竞赛
 - [competition-baseline](https://github.com/datawhalechina/competition-baseline) : 数据竞赛Baseline & Topline分享
 - [Coggle数据科学](https://zhuanlan.zhihu.com/DataAI)
@@ -166,3 +179,14 @@
 
 - [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei) : 收录了任正非讲话稿400余篇
 
+## 实用软件工具
+### 浏览器插件
+- [AIX智能下载器](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) : 通过资源嗅探网页内容，批量下载网页中嵌入的图片、视频音乐等。
+
+### 实用软件
+- [EndNote 9.1](https://www.aliyundrive.com/s/LBA7Bek6NeL) : Word文献引用管理工具。阿里云盘链接，提取码：9cs3。
+- [OfficeTab14.0标签页插件](https://www.aliyundrive.com/s/bUW9E5t2zwg) : OfficeTab标签页插件。阿里云盘链接，提取码：45bq。
+- [AxMath公式编辑器](https://www.aliyundrive.com/s/ekj3r1PxAVi) : Office插件，AxMath公式编辑器。阿里云盘链接，提取码：57te。
+
+### 实用工具
+- [KMS微软密钥管理服务(激活工具)](https://www.kms.pub/index.html) : KMS一键激活Windows所有版本、office所有版本。(仅供学习使用)
