@@ -19,6 +19,7 @@
   - [强化学习](#强化学习)
   - [推荐算法](#推荐算法)
   - [知识图谱](#知识图谱)
+  - [边缘计算](#边缘计算)
 - [数据处理](#数据处理)
   - [数据集](#数据集)
   - [数据标注](#数据标注)
@@ -76,6 +77,18 @@
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator) : 团子翻译器
 - [Landscape-Health Score](https://gitee.com/xiejiehang/Landscape-Heath-Score) ： 基于百度Paddlepaddle深度学习框架搭建景观健康效益辅助评估工具
 
+## 实用软件工具
+### 浏览器插件
+- [AIX智能下载器](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) : 通过资源嗅探网页内容，批量下载网页中嵌入的图片、视频音乐等。
+
+### 实用软件
+- [EndNote 9.1](https://www.aliyundrive.com/s/LBA7Bek6NeL) : Word文献引用管理工具。阿里云盘链接，提取码：9cs3。
+- [OfficeTab14.0标签页插件](https://www.aliyundrive.com/s/bUW9E5t2zwg) : OfficeTab标签页插件。阿里云盘链接，提取码：45bq。
+- [AxMath公式编辑器](https://www.aliyundrive.com/s/ekj3r1PxAVi) : Office插件，AxMath公式编辑器。阿里云盘链接，提取码：57te。
+
+### 实用工具
+- [KMS微软密钥管理服务(激活工具)](https://www.kms.pub/index.html) : KMS一键激活Windows所有版本、office所有版本。(仅供学习使用)
+
 ## 机器学习
 
 ### 基础知识
@@ -113,7 +126,10 @@
 
 ### 知识图谱
 - [awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) : 整理知识图谱相关学习资料，提供系统化的知识图谱学习路径。
-- [cnSchema](https://github.com/cnschema/cnSchema) : 开放中文知识图谱的schema
+- [cnSchema](https://github.com/cnschema/cnSchema) : 开放中文知识图谱的schema。
+
+### 边缘计算
+- [边缘计算入门20课](https://cloudnative.to/sig-edge/learn/learn.html) : 涉及一些关于**边缘计算**的资料。
 
 ## 数据处理
 
@@ -179,14 +195,3 @@
 
 - [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei) : 收录了任正非讲话稿400余篇
 
-## 实用软件工具
-### 浏览器插件
-- [AIX智能下载器](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) : 通过资源嗅探网页内容，批量下载网页中嵌入的图片、视频音乐等。
-
-### 实用软件
-- [EndNote 9.1](https://www.aliyundrive.com/s/LBA7Bek6NeL) : Word文献引用管理工具。阿里云盘链接，提取码：9cs3。
-- [OfficeTab14.0标签页插件](https://www.aliyundrive.com/s/bUW9E5t2zwg) : OfficeTab标签页插件。阿里云盘链接，提取码：45bq。
-- [AxMath公式编辑器](https://www.aliyundrive.com/s/ekj3r1PxAVi) : Office插件，AxMath公式编辑器。阿里云盘链接，提取码：57te。
-
-### 实用工具
-- [KMS微软密钥管理服务(激活工具)](https://www.kms.pub/index.html) : KMS一键激活Windows所有版本、office所有版本。(仅供学习使用)
