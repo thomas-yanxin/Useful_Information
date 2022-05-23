@@ -10,6 +10,7 @@
   - [文献翻译](#文献翻译)
   - [画图](#画图)
   - [搜书](#搜书)
+  - [英语学习](#英语学习)
 - [参考项目](#参考项目)
 - [机器学习](#机器学习)
   - [基础知识](#基础知识)
@@ -30,8 +31,10 @@
 - [竞赛](#竞赛)
 - [面经](#面经)
 - [杂乱](#杂论)
-- [实用工具](#实用工具)
-  -[浏览器插件](#浏览器插件)
+- [实用软件工具](#实用软件工具)
+  - [浏览器插件](#浏览器插件)
+  - [实用软件](#实用软件)
+  - [实用工具](#实用工具)
 
 ## 科研相关
 ### LaTex
@@ -176,7 +179,7 @@
 
 - [任正非思想之路](https://github.com/ttpianobirds/RenZhengfei) : 收录了任正非讲话稿400余篇
 
-## 实用工具
+## 实用软件工具
 ### 浏览器插件
 - [AIX智能下载器](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) : 通过资源嗅探网页内容，批量下载网页中嵌入的图片、视频音乐等。
 
@@ -185,5 +188,5 @@
 - [OfficeTab14.0标签页插件](https://www.aliyundrive.com/s/bUW9E5t2zwg) : OfficeTab标签页插件。阿里云盘链接，提取码：45bq。
 - [AxMath公式编辑器](https://www.aliyundrive.com/s/ekj3r1PxAVi) : Office插件，AxMath公式编辑器。阿里云盘链接，提取码：57te。
 
-### 实用黑科技
+### 实用工具
 - [KMS微软密钥管理服务(激活工具)](https://www.kms.pub/index.html) : KMS一键激活Windows所有版本、office所有版本。(仅供学习使用)
